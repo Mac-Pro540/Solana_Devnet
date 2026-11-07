@@ -1,0 +1,21 @@
+{
+  "name": "Tether",
+  "symbol": "USDT",
+  "description": "A description of the token",
+  "image": "https://raw.githubusercontent.com/Mac-Pro540/Solana_Devnet/refs/heads/main/USDT_SOLANA_devnet_512.png",
+  "external_url": "https://example.com",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Mac-Pro540/Solana_Devnet/refs/heads/main/USDT_SOLANA_devnet_512.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
